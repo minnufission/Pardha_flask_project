@@ -1,0 +1,17 @@
+change db and password before running 
+
+use mysql database
+
+create myflaskapp database
+use myflask database
+create table name with users
+
+
+user table should contain collumns >>>> name, email, username, password
+and a primary key consttraint on email
+
+May be necessary to run following commands in terminal
+pip install flask
+pip install Flask-WTF
+pip install passlib
+pip install flask-mysqldb
